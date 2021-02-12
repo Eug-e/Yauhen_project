@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc5926eb-0c54-4304-9612-fd5a724393ba" name="Default Changelist" comment="ветка correct" />
+    <list default="true" id="fc5926eb-0c54-4304-9612-fd5a724393ba" name="Default Changelist" comment="ветка correct2">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613155108074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ветка correct">
+      <created>1613155206396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613155206396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ветка correct2">
+      <created>1613155306326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613155306326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="по состоянию на 02.12.2021" />
     <MESSAGE value="ветка correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="ветка correct" />
+    <MESSAGE value="ветка correct2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ветка correct2" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1578" height="221" key="GridCell.Tab.0.bottom" timestamp="1613155008582">
