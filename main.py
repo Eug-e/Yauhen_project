@@ -15,6 +15,6 @@ if __name__ == '__main__':
 
 def ex1(a,b):
     c = a + b
-    z = c*2
+    z = c*21
     return z
 print (ex1(6,4))

@@ -98,4 +98,26 @@
     <MESSAGE value="ветка correct" />
     <option name="LAST_COMMIT_MESSAGE" value="ветка correct" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1578" height="221" key="GridCell.Tab.0.bottom" timestamp="1613155008582">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1578" height="221" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1613155008582" />
+    <state width="1578" height="221" key="GridCell.Tab.0.center" timestamp="1613155008582">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1578" height="221" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1613155008582" />
+    <state width="1578" height="221" key="GridCell.Tab.0.left" timestamp="1613155008582">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1578" height="221" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1613155008582" />
+    <state width="1578" height="221" key="GridCell.Tab.0.right" timestamp="1613155008582">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1578" height="221" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1613155008582" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1613155210920">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1613155210920" />
+  </component>
 </project>
